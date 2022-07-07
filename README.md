@@ -3,7 +3,7 @@
 
 ### Useful links: 
 - [Python code](/python_code_pop_task.py)
-- [Jupyter Notebook Json file](/pop_task.ipynb)
+- [Jupyter Notebook](/pop_task.ipynb)
 
 ### Result: 
 
