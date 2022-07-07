@@ -2,7 +2,8 @@
 
 
 ### Useful links: 
-- [See python code](/python_code_pop_task.py)
+- [Python code](/python_code_pop_task.py)
+- [Jupyter Notebook Json file](/pop_task.ipynb)
 
 ### Task Instructions:
 The file pop_task.ipynb contains a Jupyter notebook with the test.
@@ -18,4 +19,4 @@ what the task requires.
 ![Demo](/demo.gif)
 
 
-Note: It was fun :) 
+> It was fun (:
