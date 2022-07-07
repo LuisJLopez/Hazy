@@ -2,7 +2,7 @@
 
 
 ### Useful links: 
-- [See python code](hazy/python_code_pop_task.py)
+- [See python code](/python_code_pop_task.py)
 
 ### Task Instructions:
 The file pop_task.ipynb contains a Jupyter notebook with the test.
@@ -15,7 +15,7 @@ what the task requires.
 
 ### Result: 
 
-![Demo](hazy/demo.gif)
+![Demo](/demo.gif)
 
 
 Note: It was fun :) 
